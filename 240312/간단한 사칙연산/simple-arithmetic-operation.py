@@ -1,5 +1,5 @@
-a=2
-b=5
+a=7
+b=52
 print(a+b)
 print(a-b)
 print(a//b)
