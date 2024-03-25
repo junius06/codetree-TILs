@@ -1,7 +1,7 @@
 n = input()
 
 if n == 'S':
-    print("superior")
+    print("Superior")
 elif n == 'A':
     print("Excellent")
 elif n == 'B':
